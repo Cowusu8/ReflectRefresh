@@ -1,4 +1,4 @@
-package javafiles;
+package com.javafiles;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;

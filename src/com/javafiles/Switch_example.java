@@ -1,4 +1,4 @@
-package javafiles;
+package com.javafiles;
 
 public class Switch_example {
 

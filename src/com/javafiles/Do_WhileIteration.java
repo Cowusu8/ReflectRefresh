@@ -1,4 +1,4 @@
-package javafiles;
+package com.javafiles;
 public class Do_WhileIteration {
 
 	public static void fefe() {
